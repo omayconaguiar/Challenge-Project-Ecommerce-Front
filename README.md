@@ -1,4 +1,4 @@
-# FFrontend React (User Story: Robust Frontend Integration)
+# Frontend React (User Story: Robust Frontend Integration)
 
 - This is an example of a React 18 + TypeScript frontend illustrating:
 - Integration with a backend (using axios and interceptors).
@@ -21,7 +21,7 @@
 - `npm run preview`  
   Builds and then launches a local server for preview
 
-## Estrutura
+## Structure
 
 - **src/api**: axios configuration (baseURL, interceptors).
 - **src/context**: Global state management (e.g., AuthContext).
